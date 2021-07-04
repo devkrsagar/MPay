@@ -3,9 +3,9 @@ class Database {
 	private $_connection;
 	private static $_instance; //The single instance
 	private $_host = "localhost";
-	private $_username = "u377111027_kumar";
-	private $_password = "Omsbi@321";
-	private $_database = "u377111027_mpayapi";
+	private $_username = "root";
+	private $_password = "";
+	private $_database = "mpayapi";
 	/*
 	Get an instance of the Database
 	@return Instance
