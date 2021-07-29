@@ -19,7 +19,7 @@ $limit = 10;
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>MsPe Api!</title>
+  <title>MPay Api!</title>
   <script src="js/script.js"></script>
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
@@ -47,7 +47,7 @@ if(isset($_GET['msg']))
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon "></span>
           </button>
-          <span class="navbar-brand mb-0 mx-1 h1" href="#"><em>MsPe</em>.in</span>
+          <span class="navbar-brand mb-0 mx-1 h1" href="#"><em>Mpay</em></span>
         </div>
       </div>
       <div class="col-sm-12 col-md-10">
