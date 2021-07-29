@@ -2,13 +2,13 @@
 <div class="container">
   <div class="row justify-content-center  p-3 mb-5 bg-body rounded">
     <div class="col-md-3 col-sm-12 ">
-      <a class="nav-link text-primary h5"><i class="fa fa-phone"></i> 8709673993</a>
+      <a class="nav-link text-primary h5"><i class="fa fa-phone"></i> 9876543210</a>
     </div>
     <div class="col-md-3 col-sm-12">
-      <a class="nav-link text-info h5"><i class="fa fa-envelope"></i> contact@mspe.in</a>
+      <a class="nav-link text-info h5"><i class="fa fa-envelope"></i> contact@mpay.in</a>
     </div>
     <div class="col-md-3 col-sm-12">
-      <a class="nav-link text-success h5"><i class="fa fa-whatsapp"></i> 8709673993</a>
+      <a class="nav-link text-success h5"><i class="fa fa-whatsapp"></i> 9876543210</a>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2021 Copyright:
-    <a class="text-white" href="https://mspe.in/">MsPe</a>
+    <a class="text-white" href="#">Mpay</a>
   </div>
   <!-- Copyright -->
 </footer>
